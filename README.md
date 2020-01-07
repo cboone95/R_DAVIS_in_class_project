@@ -6,8 +6,9 @@ Please fill in this markdown document, save your edits, and push your changes to
 
 
 What's your name? 
-
+Chris
 What do you study (or hope to study)?
-
+Cancer Biology
 What's one interesting fact about you? 
+I'm left-handed
 
